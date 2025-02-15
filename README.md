@@ -68,10 +68,10 @@ The distance between the trains is 180 km
 - Single-use program (needs to be rerun for multiple calculations)
 - Time conversion is fixed at dividing by 10
 
-  *Note: This implementation is designed for educational purposes and demonstrates object-oriented programming concepts in Java.*
-
 ## Implementation Notes
 - Uses Scanner class for input handling
 - Closes Scanner properly to prevent resource leaks
 - All calculations are performed using integer arithmetic
 - Time conversion is hardcoded (division by 10)
+
+*Note: This implementation is designed for educational purposes and demonstrates object-oriented programming concepts in Java.*
